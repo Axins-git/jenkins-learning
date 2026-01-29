@@ -1,1 +1,1 @@
-print("Script executed!")
+print("Script executed with SCM polling!")
